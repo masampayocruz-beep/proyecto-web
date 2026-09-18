@@ -1,8 +1,24 @@
+"# Eyodd2026b" 
+![alt text](image.png)
+# Estrusctura y Organización de datos 
+__Repositorio__ de la materia de estructura y organización de datos, semestre 2026B
 
-# Tarea S01T04 - Repositorio 
+## Competencias a desarrollar
 
-![Logo ITGAM](image.png)
+Identifica, selecciona y aplica eficientemente tipos de datos abstractos, métodos de ordenamiento y búsqueda para la optimización del rendimiento de soluciones de problemas del mundo real.
 
-## Mis Apuntes en PDF:
-- [Clic aquí para ver Apunte DSA Definición](S01T01.pdf)
-- [Clic aquí para ver Apunte Non-Linear DSA](S01T03.pdf)
+## Contenido
+**Unidad 1**
+Fundamentos de estructura de datos
+
+**Unidad 2**
+Estructuras lineales
+
+**Unidad 3**
+Estructuras no lineales
+
+**Unidad 4**
+Métodos de ordenamiento y búsqueda
+
+
+cambio en el code space

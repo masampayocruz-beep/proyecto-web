@@ -1,4 +1,4 @@
-"# Eyodd2026b" 
+
 ![alt text](image.png)
 # Estrusctura y Organización de datos 
 __Repositorio__ de la materia de estructura y organización de datos, semestre 2026B
